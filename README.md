@@ -1,7 +1,3 @@
-<div align="center">
-  <img  height="250" alt="github final" src="https://github.com/user-attachments/assets/952f94e9-5e79-492a-b55e-fc7b010c9e0e" />
-
-</div>
 <h1 align="center">Hi 👋, I'm David Daniel Rodriguez Creighton</h1>
 <h3 align="center">BEng Software Engineer passionate about delivering impact through software solutions.</h3>
 
