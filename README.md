@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Daniel Rodriguez Creighton</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">BEng Software Engineer passionate about delivering impact through software solutions.</h3>
 
 - 🌱 I’m currently learning **Azure**
